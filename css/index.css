@@ -203,6 +203,9 @@ body {
 
 .box-message {
     padding: 10px 30px 100px 10px;
+    width: 300px;
+    margin-bottom: 15px;
+
 }
 
 
